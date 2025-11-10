@@ -1,0 +1,16 @@
+Canteen Bill
+============
+Bill Number: BILL-1762175871941
+Order ID: ORD-1762175871936
+Date: 11/3/2025, 6:47:52 PM
+Customer: Izass (teacher)
+
+Items:
+sweet bun x1 @ ₹15.00 = ₹15.00
+veg Rice x1 @ ₹60.00 = ₹60.00
+
+Total Amount: ₹75.00
+Payment Method: account
+Payment Status: completed
+
+Thank you for your purchase!
