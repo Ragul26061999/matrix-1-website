@@ -31,7 +31,7 @@ export default function Testimonials() {
   ];
 
   return (
-    <section className="relative isolate overflow-hidden bg-white">
+    <section className="relative isolate overflow-hidden bg-white -ml-20 -mr-20">
       {/* Background watermark */}
       <div className="pointer-events-none absolute inset-0 -z-10">
         <div className="absolute top-4 left-4 text-6xl sm:text-7xl font-extrabold tracking-wider text-gray-200/60 select-none">

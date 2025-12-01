@@ -226,7 +226,7 @@ const CarouselCard = () => {
 export default function OurSolutions() {
   return (
     <div>
-      <section className="relative isolate overflow-hidden bg-white">
+      <section className="relative isolate overflow-hidden bg-white -ml-20 -mr-20">
         {/* Background section title */}
         <div className="pointer-events-none absolute inset-0 -z-10">
           <div className="absolute top-19 left-10 text-6xl sm:text-5xl font-extrabold tracking-wider text-gray-200/60 select-none">

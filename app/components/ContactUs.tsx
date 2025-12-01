@@ -3,7 +3,7 @@ import { MapPin, Phone, Mail } from 'lucide-react';
 
 export default function ContactUs() {
   return (
-    <section className="relative isolate overflow-hidden bg-white">
+    <section className="relative isolate overflow-hidden bg-white -ml-20 -mr-20">
       {/* Top intro text */}
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pt-8">
         <p className="text-center text-gray-700">
