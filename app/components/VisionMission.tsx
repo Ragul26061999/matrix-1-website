@@ -108,9 +108,9 @@ export default function VisionMission() {
           <div className="lg:col-span-3 flex items-end justify-center lg:justify-end relative">
             <div className="relative">
               <img
-                src="/image/teacher 1.png"
+                src="/image/201.png"
                 alt="Teacher with educational technology"
-                className="h-[360px] w-auto object-cover drop-shadow-2xl relative z-10"
+                className="h-[850px] w-auto object-cover drop-shadow-2xl relative z-10"
               />
               {/* Bars behind */}
               <div className="absolute bottom-5 -left-24 h-38 w-40 bg-gradient-to-t from-blue-200 to-blue-100 rounded-md z-0" />
