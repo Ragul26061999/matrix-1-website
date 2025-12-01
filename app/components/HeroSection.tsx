@@ -74,7 +74,7 @@ export default function HeroSection() {
             }
           >
             <img
-              src="/image/Rectangle 22804.png"
+              src="/image/200.png"
               alt="Classroom with students using tablets"
               className="h-full w-full object-cover rounded-xl"
               referrerPolicy="no-referrer"

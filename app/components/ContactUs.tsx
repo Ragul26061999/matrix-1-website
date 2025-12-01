@@ -82,7 +82,7 @@ export default function ContactUs() {
               </div>
               <div className="relative z-10">
                 <h3 className="text-2xl font-extrabold text-blue-600 text-center mb-2">GET IN TOUCH</h3>
-              <p className="text-center text-blue-800/70 text-sm mb-6">We'll get back to you as soon as possible</p>
+              <p className="text-center text-blue-800/70 text-sm mb-6">We&apos;ll get back to you as soon as possible</p>
               <form className="mt-6 space-y-4" onSubmit={(e) => e.preventDefault()}>
                 <div className="relative">
                   <label htmlFor="name" className="sr-only">Name</label>
