@@ -8,19 +8,19 @@ export default function WhyUs() {
   const items = [
     {
       title: 'Innovative Technology',
-      image: '/image/Rectangle 22804.png'
+      image: '/image/207.png'
     },
     {
       title: 'Tailored Solutions',
-      image: '/image/3.png'
+      image: '/image/208.png'
     },
     {
       title: 'Expert Support',
-      image: '/image/4.png'
+      image: '/image/209.png'
     },
     {
       title: 'Commitment to Educational Excellence',
-      image: '/image/6.png'
+      image: '/image/210.png'
     }
   ];
 

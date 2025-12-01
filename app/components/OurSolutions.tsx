@@ -313,11 +313,11 @@ export default function OurSolutions() {
             />
           </div> */}
           {/* Left-side background image (triangle) behind Community Impact */}
-          <div className="pointer-events-none hidden md:flex absolute inset-y-0 left-0 w-1/4 -z-10 items-center justify-center transform -translate-y-16 -translate-x-6">
+          <div className="pointer-events-none hidden md:flex absolute inset-y-0 left-0 w-1/4 -z-10 items-center justify-center transform -translate-y-24 -translate-x-6">
             <img
               src="/image/tri.png"
               alt="Decorative gradient triangle background"
-              className="max-w-[160px] w-full opacity-60 select-none"
+              className="max-w-[160px] w-full opacity-60 select-none -ml-25 "
             />
           </div>
           {/* Header/Intro with top line */}
