@@ -7,11 +7,13 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
           {/* Brand and description */}
           <div>
-            <div className="flex items-center gap-2">
-              <div className="h-8 w-24 bg-white/90 rounded-sm flex items-center justify-center text-sm font-bold text-[#1e3a8a]">
-                MatriX
-              </div>
-            </div>
+            <Link href="/" className="flex-shrink-0 flex items-center">
+              <img
+                src="/image/matrix logo.png"
+                alt="Matrix Logo"
+                className="h-10 w-auto"
+              />
+            </Link>
             <p className="mt-4 text-sm leading-relaxed text-gray-200/90">
               Matrix Solutions transforms education with innovative technology, offering high‑quality audiovisual
               equipment and smart classroom solutions. Our expert team is dedicated to enhancing learning experiences

@@ -22,7 +22,7 @@ export default function HeroSection() {
           animation: floatPlane 3s ease-in-out infinite;
         }
       `}</style>
-    <section className="relative isolate overflow-hidden bg-white -ml-20 -mr-20 -mt-8">
+    <section className="relative isolate overflow-hidden bg-white -ml-20 -mr-20 -mt-9">
       {/* Paper plane decoration - top left */}
       <div className="absolute top-20 left-25 z-0">
         <img 
@@ -118,7 +118,7 @@ export default function HeroSection() {
               "absolute rounded-xl shadow-xl overflow-hidden transition-all duration-500 " +
               (active === "right"
                 ? "right-2 sm:right-8 top-1/2 -translate-y-1/2 z-30 w-[92%] sm:w-[600px] aspect-video"
-                : "right-2 sm:right-8 top-1/2 -translate-y-1/2 z-10 w-48 ")
+                : "right-2 sm:right-8 top-1/2 -translate-y-1/2 z-10 w-48 sm:w-60")
             }
           >
             <img

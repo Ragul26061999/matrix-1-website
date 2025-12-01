@@ -17,11 +17,13 @@ export default function OurCommunity() {
           {/* Card 1 */}
           <div className="relative rounded-xl bg-white shadow-[0_10px_25px_rgba(0,0,0,0.08)] border border-gray-100 overflow-hidden">
             <div className="flex justify-center ">
-              <img
-                src="https://images.unsplash.com/photo-1527980965255-d3b416303d12?q=80&w=600&auto=format&fit=crop"
-                alt="Meenakshi Sundaram"
-                className="h-32 w-32 rounded-full object-cover ring-4 ring-white"
-              />
+              <div className="h-32 w-32 rounded-full overflow-hidden ring-4 ring-white bg-gray-100">
+                <img
+                  src="/image/team-1.jpg"
+                  alt="Meenakshi Sundaram"
+                  className="h-full w-full object-cover"
+                />
+              </div>
             </div>
             <div className="px-6 pb-6 pt-14">
               <h3 className="text-lg font-semibold text-gray-900">Meenakshi Sundaram</h3>
@@ -36,11 +38,13 @@ export default function OurCommunity() {
           {/* Card 2 */}
           <div className="relative rounded-xl bg-white shadow-[0_10px_25px_rgba(0,0,0,0.08)] border border-gray-100 overflow-hidden">
             <div className="flex justify-center ">
-              <img
-                src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=600&auto=format&fit=crop"
-                alt="John Timber"
-                className="h-32 w-32 rounded-full object-cover ring-4 ring-white"
-              />
+              <div className="h-32 w-32 rounded-full overflow-hidden ring-4 ring-white bg-gray-100">
+                <img
+                  src="/image/team-2.jpg"
+                  alt="John Timber"
+                  className="h-full w-full object-cover"
+                />
+              </div>
             </div>
             <div className="px-6 pb-6 pt-14 text-center md:text-left">
               <h3 className="text-lg font-semibold text-gray-900">John Timber</h3>
@@ -55,11 +59,13 @@ export default function OurCommunity() {
           {/* Card 3 */}
           <div className="relative rounded-xl bg-white shadow-[0_10px_25px_rgba(0,0,0,0.08)] border border-gray-100 overflow-hidden">
             <div className="flex justify-center ">
-              <img
-                src="https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=600&auto=format&fit=crop"
-                alt="Rohan Mehra"
-                className="h-32 w-32 rounded-full object-cover ring-4 ring-white"
-              />
+              <div className="h-32 w-32 rounded-full overflow-hidden ring-4 ring-white bg-gray-100">
+                <img
+                  src="/image/team-3.jpg"
+                  alt="Rohan Mehra"
+                  className="h-full w-full object-cover"
+                />
+              </div>
             </div>
             <div className="px-6 pb-6 pt-14 text-center md:text-left">
               <h3 className="text-lg font-semibold text-gray-900">Rohan Mehra</h3>

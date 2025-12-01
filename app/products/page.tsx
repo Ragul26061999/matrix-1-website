@@ -8,63 +8,63 @@ const products = [
   {
     title: "Interactive Flat Panel",
     desc: "This is the best product in its segment, designed with highly attractive features.",
-    img: "/image/Rectangle 22804.png",
+    img: "/image/31.png",
     category: "Displays",
     price: 1200,
   },
   {
     title: "UV White board",
     desc: "The good product in its line, designed with highly professional and attractive features.",
-    img: "/image/Rectangle 22805.png",
+    img: "/image/32.png",
     category: "Boards",
     price: 800,
   },
   {
     title: "Visualizer",
     desc: "This is the best product in its segment, designed with highly attractive features.",
-    img: "/image/Rectangle 22807.png",
+    img: "/image/33.png",
     category: "Tools",
     price: 600,
   },
   {
     title: "Interactive full Panel",
     desc: "The good product in its line, designed with highly professional and attractive features.",
-    img: "/image/Rectangle 22807 (1).png",
+    img: "/image/34.png",
     category: "Displays",
     price: 1500,
   },
   {
     title: "Led 4K",
     desc: "this is the best product in its segment, designed with highly attractive features.",
-    img: "/image/Rectangle 22805.png",
+    img: "/image/35.png",
     category: "Displays",
     price: 2000,
   },
   {
     title: "TV Monitor",
     desc: "The good product in its line, designed with highly professional and attractive features.",
-    img: "/image/teacher 1.png",
+    img: "/image/36.png",
     category: "Monitors",
     price: 900,
   },
   {
     title: "Smart Display Solution",
     desc: "Advanced display technology for modern classrooms and presentations.",
-    img: "/image/Rectangle 22804.png",
+    img: "/image/37.png",
     category: "Displays",
     price: 1800,
   },
   {
     title: "Digital Whiteboard",
     desc: "Interactive whiteboard for collaborative learning environments.",
-    img: "/image/Rectangle 22807.png",
+    img: "/image/38.png",
     category: "Boards",
     price: 1100,
   },
   {
     title: "Projection System",
     desc: "High-quality projection system for large venue presentations.",
-    img: "/image/Rectangle 22807 (1).png",
+    img: "/image/39.png",
     category: "Projectors",
     price: 2500,
   },
@@ -144,10 +144,10 @@ export default function ProductsPage() {
             <div className="absolute inset-0 grid place-items-center px-6 text-center text-white">
               <div className="mx-auto max-w-2xl">
                 <h1 className="text-2xl font-semibold sm:text-3xl md:text-4xl">
-                  3 year replacement warranty!
+                  Transform Your Classroom Experience
                 </h1>
                 <p className="mt-2 text-xs text-gray-100 sm:text-sm">
-                  on all our products
+                  with our cutting-edge educational technology
                 </p>
                 <Link
                   href="#catalog"

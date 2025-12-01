@@ -8,19 +8,19 @@ export default function WhyUs() {
   const items = [
     {
       title: 'Innovative Technology',
-      image: 'https://images.unsplash.com/photo-1518709268805-4e9042af2176?q=80&w=2000&auto=format&fit=crop'
+      image: '/image/Rectangle 22804.png'
     },
     {
       title: 'Tailored Solutions',
-      image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=2000&auto=format&fit=crop'
+      image: '/image/3.png'
     },
     {
       title: 'Expert Support',
-      image: 'https://images.unsplash.com/photo-1553484771-047a44eee27b?q=80&w=2000&auto=format&fit=crop'
+      image: '/image/4.png'
     },
     {
       title: 'Commitment to Educational Excellence',
-      image: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2000&auto=format&fit=crop'
+      image: '/image/6.png'
     }
   ];
 

@@ -60,7 +60,7 @@ export default function VisionMission() {
       </div>
 
       {/* Top left image */}
-      <div className="absolute top-0 left-7 z-0">
+      <div className="absolute top-0 left-10.5 z-0">
         <img 
           src="/image/down.png" 
           alt="" 
@@ -77,12 +77,12 @@ export default function VisionMission() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
           {/* Left: Vision circle */}
           <div className="lg:col-span-5 flex justify-center lg:justify-start mt-50">
-            <div className="relative w-[320px] sm:w-[380px] aspect-square">
+            <div className="relative w-[320px] sm:w-[400px] aspect-square">
               {/* Outer arc */}
               <img src="/image/Ellipse 1021.png" alt="Vision circle" className="absolute inset-0 w-full h-full object-contain rotate-anticlockwise" />
-              <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-10 ml-2">
-                <h3 className="text-3xl font-extrabold tracking-wide text-blue-600">VISION</h3>
-                <p className="mt-3 text-sm text-gray-700 leading-relaxed">
+              <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-8">
+                <h3 className="text-3xl font-extrabold tracking-wide text-blue-600 mb-2">VISION</h3>
+                <p className="text-sm text-gray-700 leading-relaxed px-4">
                   To revolutionize learning through technology-driven education by creating future-ready classrooms,
                   inspiring innovation, and becoming the most trusted partner in digital transformation.
                 </p>
@@ -92,11 +92,11 @@ export default function VisionMission() {
 
           {/* Center: Mission circle */}
           <div className="lg:col-span-4 order-last lg:order-none flex justify-center -mt-40 -ml-40">
-            <div className="relative w-[340px] sm:w-[420px] aspect-square lg:-translate-y-4 lg:-translate-x-4">
+            <div className="relative w-[360px] sm:w-[420px] aspect-square lg:-translate-y-4 lg:-translate-x-4">
               <img src="/image/Ellipse 1020.png" alt="Mission circle" className="absolute inset-0 w-full h-full object-contain rotate-clockwise" />
-              <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-10 ml-2">
-                <h3 className="text-3xl font-extrabold tracking-wide text-blue-600">MISSION</h3>
-                <p className="mt-3 text-sm text-gray-700 leading-relaxed">
+              <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-8">
+                <h3 className="text-3xl font-extrabold tracking-wide text-blue-600 mb-2">MISSION</h3>
+                <p className="text-sm text-gray-700 leading-relaxed px-4">
                   To empower institutions with smart classroom solutions by combining global technology, curated content,
                   and expert support for seamless digital transformation.
                 </p>
